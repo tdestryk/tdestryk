@@ -6,6 +6,20 @@
 - 📫 How to reach me **tdestryk@gmail.com**
 
 - 📄 Know about my experiences [Contact for Resume](Contact for Resume)
+Curiosity, problem-solving, and storytelling have been at the core of my journey—from working behind the scenes in film productions to decoding the patterns hidden in data. My transition into data science wasn’t just a career shift; it was a natural evolution of my passion for uncovering insights and crafting narratives that drive action.
+
+As a Data Scientist & Machine Learning Engineer, I specialize in Python, machine learning modeling (Scikit-learn, TensorFlow), and data visualization. Whether it's predicting natural disasters with logistic regression and LSTMs, building movie recommendation engines using K-Nearest Neighbors, or integrating machine learning models into interactive applications, I thrive in turning raw data into actionable insights.
+
+What I Bring to the Table:
+Machine Learning & AI – Hands-on experience developing models for predictive analytics, recommendation systems, and time-series forecasting.
+Data Wrangling & Engineering – Skilled in Pandas, NumPy, SQL, and working with large, complex datasets to extract meaningful insights.
+End-to-End Model Deployment – Experience with API integrations, model serialization (pickle, joblib), and visualization tools (Matplotlib, Seaborn, interactive dashboards).
+Storytelling with Data – Translating complex findings into compelling narratives that inform decision-making and strategy.
+
+My Unique Edge?
+Coming from an industry where adaptability, teamwork, and fast-paced problem-solving are essential, I bring a creative mindset, strong communication skills, and the ability to break down technical concepts for diverse audiences. I know how to balance analytical rigor with storytelling, ensuring data-driven insights don’t just sit in reports—they drive action.
+
+I’m always eager to connect with like-minded professionals, collaborate on exciting projects, and explore how machine learning can solve real-world problems. If you’re looking for a data-driven thinker with a unique background and a relentless curiosity, let’s connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
