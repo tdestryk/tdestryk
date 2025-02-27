@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tdestryk@gmail.com**
 
-- 📄 Know about my experiences [Contact for Resume](Contact for Resume)
+- 📄 Know about my experiences (Contact for Resume)
 Curiosity, problem-solving, and storytelling have been at the core of my journey—from working behind the scenes in film productions to decoding the patterns hidden in data. My transition into data science wasn’t just a career shift; it was a natural evolution of my passion for uncovering insights and crafting narratives that drive action.
 
 As a Data Scientist & Machine Learning Engineer, I specialize in Python, machine learning modeling (Scikit-learn, TensorFlow), and data visualization. Whether it's predicting natural disasters with logistic regression and LSTMs, building movie recommendation engines using K-Nearest Neighbors, or integrating machine learning models into interactive applications, I thrive in turning raw data into actionable insights.
